@@ -19,7 +19,7 @@ library(ggplot2)
 
 # Criando o token de acesso a API do Twitter
 # Acesse https://developer.twitter.com/ e crie seu app de acesso a API.
-
+# A chave abaixo é fake :D
 token <- create_token(
   app = "Chave_Toth",
   consumer_key = "feOfhhvL33ZO2Kb3dsfsfsdvm1NVjxTw",
